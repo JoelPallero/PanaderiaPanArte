@@ -1,0 +1,12 @@
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

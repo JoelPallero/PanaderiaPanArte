@@ -1,0 +1,10 @@
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+G:\Programacion\GitHub\PanaderiaPanArte\Practica\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
